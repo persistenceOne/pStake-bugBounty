@@ -11,13 +11,13 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behaviour**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
@@ -42,9 +42,9 @@ Your ethereum wallet address to receive the bounty on reporting a valid bug.
 
 **Criticality Assessment**
 Please pick one:
-- [ ] **High**	An issue that might cause immediate loss of the funds or permanent/severe damage of the protocol state
-- [ ] **Medium**	An issue that might theoretically cause minimal loss of funds, damage the protocol state, or cause severe user dissatisfaction
-- [ ] **Low**	An issue that might cause user dissatisfaction or minimal failure of the application
+- [ ] **High**:	An issue that might cause immediate loss of the funds or permanent/severe damage of the protocol state
+- [ ] **Medium**:	An issue that might theoretically cause minimal loss of funds damage the protocol state or cause severe user dissatisfaction
+- [ ] **Low**:	An issue that might cause user dissatisfaction or minimal failure of the application
 
 **Checklist**
 - [ ] The reported issue is in the [scope](https://staging.docs.pstake.finance/pStake/Program_Scope/) of the pStake BugBounty program.
