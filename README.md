@@ -1,4 +1,4 @@
-# pStake Bug Bounty
+# pStake Bug Bounty Program
 Report a bug on the pStake app [here](https://github.com/persistenceOne/pStake-bugBounty/issues/new?assignees=&labels=&template=bug_report.md&title=).
 
 ## How to?
