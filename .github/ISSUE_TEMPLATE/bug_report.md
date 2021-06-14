@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Report a bug on the pStake alpha release app
+title: pStake BugBounty program 
 labels: ''
 assignees: ''
 
@@ -36,3 +36,17 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Ethereum address**
+Your ethereum wallet address to receive the bounty on reporting a valid bug.
+
+**Criticality Assessment**
+Please pick one:
+-[] **High**	An issue that might cause immediate loss of the funds or permanent/severe damage of the protocol state
+-[] **Medium**	An issue that might theoretically cause minimal loss of funds, damage the protocol state, or cause severe user dissatisfaction
+-[] **Low**	An issue that might cause user dissatisfaction or minimal failure of the application
+
+**Checklist**
+-[] The reported issue is in the [scope](https://staging.docs.pstake.finance/pStake/Program_Scope/) of the pStake BugBounty program.
+-[] This issue has not been reported before.
+-[] The ethereum address filled in is valid.
