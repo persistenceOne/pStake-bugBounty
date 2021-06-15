@@ -3,7 +3,7 @@ Report a bug on the pStake app [here](https://github.com/persistenceOne/pStake-b
 
 ## How to?
 * [Participation Instructions](https://docs.pstake.finance/pStake/Participation_Instructions/)
-* [Program Scope](https://docs.pstake.finance/pStake/Program_Scope/){}
+* [Program Scope](https://docs.pstake.finance/pStake/Program_Scope/)
 
 ## Start Time
 15th of June 2021, 1200 HRS UTC
