@@ -47,6 +47,6 @@ Please pick one:
 - [ ] **Low**:	An issue that might cause user dissatisfaction or minimal failure of the application
 
 **Checklist**
-- [ ] The reported issue is in the [scope](https://docs.pstake.finance/pStake/Program_Scope/) of the pStake BugBounty program.
+- [ ] The reported issue is in the [scope](https://docs.pstake.finance/Program_Scope/) of the pStake BugBounty program.
 - [ ] This issue has not been reported before.
 - [ ] The ethereum address filled in is valid.
